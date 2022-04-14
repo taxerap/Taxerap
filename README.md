@@ -36,23 +36,23 @@ I'm Taxerap, someone that's... someone.
 
 **QQ**: 1070601686  
 **Email**: taxerap@gmail.com  
-**[Steam profile](https://steamcommunity.com/id/taxerap)**
+~~**Personal Website**: erap.tax~~ _(down for now)_
 
 ## Finished works
-
-**[Finc](https://github.com/Taxerap/NameGen)**  
-A small utility program, finding all the _*.c_ files under ./src folder for me to copy-paste into shell script to compile C programs.  
-Yes, I know Make.  
-No, I won't use it.  
-No, nor CMake.
 
 **[NameGen](https://github.com/Taxerap/NameGen)**  
 A program that generates nicknames by the consonant-vowel-consonant... format. It generates a surprising amount of Japanese names...  
 This is probably the first ever _thing_ that I completed on a computer. I got it done back in middle school, when I was playing with Java because I wanted to make Minecraft mods.
 
+**[Finc](https://github.com/Taxerap/Finc)**  
+A small utility program, finding all the _*.c_ files under ./src folder for me to copy-paste into shell script to compile C programs.
+
+**[Tilmi](https://github.com/State-of-War-PostBar/Tilmi)**  
+A tool for making til and tmi resources for the game _State of War_.
+
 ## Main repositories
 
-**[sowr](https://github.com/State-of-War-PostBar/sowr)**  
+**[Blue Alert](https://github.com/State-of-War-PostBar/Blue-Alert)**  
 _[sound of a pigeon flying away]_
 
 ## Other documents
