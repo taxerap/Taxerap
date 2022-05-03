@@ -1,14 +1,12 @@
 ## Introduction
 
-No matter who you are, allow me to sincerely thank you for coming to this meaningless trash page.
-
 I'm Taxerap, someone that's... someone.  
 
 ## Contacts
 
 **QQ**: 1070601686  
 **Email**: taxerap@gmail.com  
-~~**Personal Website**: erap.tax~~ _(down for now)_
+~~**Personal Website**: erap.tax~~ _(down for now because I don't have anything to do with it anyways)_
 
 ## Finished works
 
