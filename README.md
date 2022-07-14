@@ -3,8 +3,8 @@
 I'm Taxerap, someone that's... someone.  
 Yeah right, you are looking at the profile of someone that dropped out from a four-year university...
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/Taxerap/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/Taxerap/github-stats/master/generated/languages.svg)
 
 ## Contacts
 
