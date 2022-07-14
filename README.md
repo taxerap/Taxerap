@@ -1,7 +1,10 @@
 ## Introduction
 
 I'm Taxerap, someone that's... someone.  
-Yeah right, you are looking at the profile of someone that dropped out from a four-year university.
+Yeah right, you are looking at the profile of someone that dropped out from a four-year university...
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg)
 
 ## Contacts
 
@@ -26,8 +29,11 @@ A tool for making til and tmi resources for the game _State of War_.
 **[Blue Alert](https://github.com/State-of-War-PostBar/Blue-Alert)**  
 _[sound of a pigeon flying away]_
 
+**[erap](https://github.com/Taxerap/erap)**  
+_[sound of another pigeon flying away]_
+
 ## Other documents
 
-Contents here may be English, may be Chinese. I don't have the intent of writing two versions since no one's gonna read them. I'll just use whatever language that's easiest for me to write for that time being.
+Contents here may be English, may be Chinese. I don't have the intention of writing two versions since no one's gonna read them. I'll just use whatever language that's easiest for me to write for that time being.
 
 [我和编程](docs/me_and_programming.md)
