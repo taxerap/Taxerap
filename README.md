@@ -2,8 +2,8 @@
 
 I'm Taxerap, someone that's... someone.  
 
-![](https://raw.githubusercontent.com/Taxerap/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/Taxerap/github-stats/master/generated/languages.svg)
+![Github stats](https://raw.githubusercontent.com/Taxerap/github-stats/master/generated/overview.svg#gh-dark-mode-only)  
+![Language stats](https://raw.githubusercontent.com/Taxerap/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ## Contacts
 
