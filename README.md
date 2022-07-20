@@ -3,7 +3,7 @@
 I'm Taxerap, someone that's... someone.  
 
 ![Github stats](https://raw.githubusercontent.com/Taxerap/github-stats/master/generated/overview.svg#gh-dark-mode-only)  
-![Language stats](https://raw.githubusercontent.com/Taxerap/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Language stats](https://raw.githubusercontent.com/Taxerap/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ## Contacts
 
