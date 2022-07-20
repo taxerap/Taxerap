@@ -1,17 +1,16 @@
-## Introduction
+# Taxerap
 
 I'm Taxerap, someone that's... someone.  
 
-![Github stats](https://raw.githubusercontent.com/Taxerap/github-stats/master/generated/overview.svg#gh-dark-mode-only)  
-![Language stats](https://raw.githubusercontent.com/Taxerap/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Taxerap/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/Taxerap/github-stats/master/generated/languages.svg)
 
 ## Contacts
 
-**QQ**: 1070601686  
 **Email**: taxerap@gmail.com  
 ~~**Personal Website**: erap.tax~~ _(down for now since I don't have anything to do with it anyways)_
 
-## Actually finished works (extraordinary rare)
+## Actually finished works without over-promising
 
 **[NameGen](https://github.com/Taxerap/NameGen)**  
 A program that generates nicknames by a consonant-vowel-consonant... format.  
