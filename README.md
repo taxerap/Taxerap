@@ -1,3 +1,8 @@
+>If you're incompetent, you can't know you're incompetent...  
+>The skills you need to produce a right answer are exactly the skills you need to recognize what a right answer is.  
+>
+>_David Dunning, Self-insight: Roadblocks and Detours on the Path to Knowing Thyself (2005)_
+
 # Taxerap
 
 I'm Taxerap, someone that's... someone.  
@@ -8,7 +13,7 @@ I'm Taxerap, someone that's... someone.
 ## Contacts
 
 **Email**: taxerap@gmail.com  
-~~**Personal Website**: erap.tax~~ _(down for now since I don't have anything to do with it anyways)_
+~~**Personal Website**: erap.tax~~ _(down for now, I don't have anything to do with it anyways)_
 
 ## Actually finished works without over-promising
 
