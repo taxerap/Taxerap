@@ -15,7 +15,7 @@ I'm Taxerap, someone that's... someone.
 ## Contacts
 
 **Email**: taxerap@gmail.com  
-~~**Personal Website**: erap.tax~~ _(down for now, I don't have anything to do with it anyways)_
+~~**Personal Website**: erap.tax~~ _(down for now)_
 
 ## Introductory documents
 
